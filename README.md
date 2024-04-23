@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Bien sûr, voici une version un peu plus modérée :
 
 Développeur Backend en apprentissage
 Bonjour !
