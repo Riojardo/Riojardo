@@ -2,7 +2,7 @@
 
 
 
-Développeur Backend en apprentissage
+
 Bonjour !
 Je suis un développeur backend en apprentissage, concentré sur les technologies C#, .NET, Entity Framework et Dapper. Mon objectif est de contribuer à des projets intéressants tout en continuant à améliorer mes compétences techniques.
 
